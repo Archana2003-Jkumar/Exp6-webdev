@@ -123,7 +123,7 @@ button {
 ```
 ## Output:
 ![image](https://github.com/Archana2003-Jkumar/Exp6-webdev/assets/93427594/14a1587b-0960-4693-b481-eb23307e6271)
-![image](https://github.com/Archana2003-Jkumar/Exp6-webdev/assets/93427594/c21c47c7-b5a2-46e2-9e5a-38adcce53126)
+![image](https://github.com/Archana2003-Jkumar/Exp6-webdev/assets/93427594/e635ee78-4d1e-4e47-8326-21d567d6a87c)
 
 ## Result:
 Thus the code has been implemented successfully.
